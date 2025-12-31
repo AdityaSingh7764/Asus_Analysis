@@ -1,0 +1,121 @@
+ProductID,ProductName,ProductCategory,SupplierID,PricePerUnit,LaunchYear,StockStatus,AvgCustomerRating,PerformanceTier,PriceSentiment
+P00120,ASUS TUF SSD TUF-GAMING 433,Ssd,S006,133.6,2022,In Stock,3.6,Budget,Competitive
+P00098,ASUSPrime SSDZ49037,Ssd,S010,188.84,2022,Low Stock,3.9,Midrange,Competitive
+P00029,ASUS Prime Graphics Card TUF-GAMING 266,Graphics Card,S019,163.45,2023,In Stock,4.0,Midrange,Competitive
+P00042,ASUS TUF PSU Z490 711,Power Supply,S005,173.78,2020,In Stock,3.5,Midrange,Competitive
+P00090,ASUS Motherboard B450 506,Motherboard,S020,300.84,2022,Low Stock,3.2,Midrange,Competitive
+P00003,ASUS Prime Power Supply Z490 68,Power Supply,S019,231.42,2023,Out of Stock,4.2,Midrange,Competitive
+P00025,ASUS Fan X 962,Fan,S007,403.59,2019,In Stock,3.6,High-End,Premium
+P00062,ASUS Prime Power Supply B450 431,Power Supply,S010,207.06,2020,Out of Stock,4.2,Midrange,Competitive
+P00001,ASUS Motherboard Z490 116,Motherboard,S006,172.04,2022,In Stock,3.3,Midrange,Competitive
+P00015,ASUS Prime Motherboard Z490 525,Motherboard,S011,185.44,2024,In Stock,4.0,Midrange,Competitive
+P00078,ASUS Power Supply Pro 328,Power Supply,S012,155.39,2018,In Stock,4.1,Midrange,Competitive
+P00026,ASUS ROG PSU X 713,Power Supply,S003,234.54,2019,Out of Stock,3.1,Midrange,Competitive
+P00030,ASUS Prime Motherboard B450 156,Motherboard,S019,57.37,2019,In Stock,3.7,Budget,Competitive
+P00004,ASUS Prime Graphics Card X 607,Graphics Card,S004,476.13,2023,In Stock,3.3,High-End,Premium
+P00049,ASUS Prime Fan Pro 397,Fan,S007,75.95,2019,In Stock,3.1,Budget,Competitive
+P00097,ASUS TUF HDD RTX 4080 352,Hdd,S001,336.34,2020,In Stock,5.0,Midrange,Competitive
+P00094,ASUS Prime RAM TUF-GAMING 618,Ram,S017,104.54,2022,In Stock,3.6,Budget,Competitive
+P00113,ASUS TUF SSD TUF-GAMING 674,Ssd,S005,217.09,2022,In Stock,4.6,Midrange,Competitive
+P00014,ASUS ROG Graphics Card Z490 646,Graphics Card,S003,439.39,2024,In Stock,3.5,High-End,Premium
+P00119,ASUS ROG Case Z490 647,Case,S014,229.36,2018,In Stock,4.4,Midrange,Competitive
+P00109,ASUS TUF Case Z490 152,Case,S010,285.94,2023,In Stock,4.5,Midrange,Competitive
+P00006,ASUS Prime CPU Cooler RTX 4080 592,Cpu Cooler,S011,136.01,2018,In Stock,4.2,Budget,Competitive
+P00037,ASUS PSU Z490 929,Power Supply,,176.1,2019,In Stock,3.9,Midrange,Competitive
+P00046,ASUS TUF CPU Cooler RTX 4080 825,Cpu Cooler,S004,201.38,2024,In Stock,3.8,Midrange,Competitive
+P00036,ASUS Prime Monitor TUF-GAMING 892,Monitor,S019,211.75,2018,Low Stock,3.7,Midrange,Competitive
+P00108,ASUS ROG HDD TUF-GAMING 986,Hdd,S009,133.57,2020,In Stock,4.9,Budget,Competitive
+P00012,ASUS Prime Power Supply RTX 4080 8,Power Supply,S008,134.54,2022,In Stock,4.7,Budget,Competitive
+P00031,ASUS Prime SSD Prime Z690 746,Ssd,S018,322.34,2019,In Stock,4.9,Midrange,Competitive
+P00085,ASUS Monitor Z490 122,Monitor,,193.13,2024,In Stock,3.2,Midrange,Competitive
+P00082,ASUS Monitor Z490 472,Monitor,S005,287.54,2018,In Stock,4.5,Midrange,Competitive
+P00022,ASUS Monitor X 940,Monitor,S014,219.54,2023,In Stock,4.9,Midrange,Competitive
+P00017,ASUS ROG Graphics Card RTX 4080 79,Graphics Card,S005,,2020,In Stock,3.4,Unknown,
+P00066,ASUS Case TUF-GAMING 325,Case,S015,263.47,2020,In Stock,3.1,Midrange,Competitive
+P00028,ASUS Prime Graphics Card Pro 625,Graphics Card,S004,290.61,2018,In Stock,4.5,Midrange,Competitive
+P00107,ASUS TUF SSD Pro 425,Ssd,S015,110.62,2022,In Stock,4.1,Budget,Competitive
+P00093,ASUS Prime Fan X 239,Fan,S009,273.77,2018,In Stock,4.7,Midrange,Competitive
+P00061,ASUS TUF Power Supply X 112,Power Supply,S005,105.81,2019,In Stock,3.3,Budget,Competitive
+P00045,ASUS ROG Motherboard X 816,Motherboard,S016,111.51,2018,In Stock,4.6,Budget,Competitive
+P00054,ASUS Prime Motherboard Pro 136,Motherboard,S003,166.71,2020,In Stock,3.4,Midrange,Competitive
+P00024,ASUS Graphics Card Z490 101,Graphics Card,S012,19.78,2024,In Stock,3.3,Budget,Competitive
+P00065,ASUS ROG Fan TUF-GAMING 549,Fan,S005,289.58,2018,In Stock,3.3,Midrange,Competitive
+P00103,ASUS Prime SSD B450 21,Ssd,S011,92.69,2022,Low Stock,4.6,Budget,Competitive
+P00079,ASUS RAM B450 299,Ram,S017,272.93,2024,In Stock,4.3,Midrange,Competitive
+P00095,ASUS Prime HDD Pro 644,Hdd,,278.36,2023,In Stock,4.0,Midrange,Competitive
+P00056,ASUS TUF SSD RTX 4080 34,Ssd,S020,478.86,2021,Low Stock,3.7,High-End,Premium
+P00116,ASUS Prime RAM Z490 700,Ram,S005,292.65,2018,Out of Stock,4.8,Midrange,Competitive
+P00088,ASUS ROG Graphics Card RTX 4080 872,Graphics Card,S019,157.12,2022,In Stock,3.8,Midrange,Competitive
+P00060,ASUS Prime CPU Cooler RTX 4080 377,Cpu Cooler,S003,197.43,2024,In Stock,4.6,Midrange,Competitive
+P00080,ASUS TUF RAM B450 702,Ram,S018,,2022,Low Stock,3.9,Unknown,
+P00002,ASUS TUF Graphics Card RTX 4080 666,Graphics Card,S015,436.04,2023,Low Stock,3.8,High-End,Premium
+P00019,ASUS ROG Graphics Card RTX 4080 957,Graphics Card,S014,314.11,2020,In Stock,3.9,Midrange,Competitive
+P00020,ASUS RAM TUF-GAMING 271,Ram,S006,190.32,2022,In Stock,3.6,Midrange,Competitive
+P00057,ASUS TUF Motherboard X 114,Motherboard,S002,138.17,2024,In Stock,4.5,Budget,Competitive
+P00092,ASUS HDD X 147,Hdd,S004,146.38,2022,In Stock,4.0,Budget,Competitive
+P00007,ASUSTUFSSDX597,Ssd,S013,368.96,2022,In Stock,3.5,Midrange,Competitive
+P00102,ASUS CPU Cooler TUF-GAMING 68,Cpu Cooler,S006,316.6,2022,In Stock,4.8,Midrange,Competitive
+P00055,ASUS Fan Z490 475,Fan,S013,,2019,In Stock,3.8,Unknown,
+P00010,ASUS ROG PSU Pro 12,Power Supply,,446.45,2019,Low Stock,4.1,High-End,Premium
+P00112,ASUS PSU TUF-GAMING 498,Power Supply,S003,318.42,2020,In Stock,4.8,Midrange,Competitive
+P00011,ASUS Prime Power Supply Prime Z690 467,Power Supply,S014,181.97,2018,In Stock,4.2,Midrange,Competitive
+P00013,ASUS Prime Motherboard TUF-GAMING 378,Motherboard,S003,402.54,2022,Low Stock,3.2,High-End,Premium
+P00072,ASUS Prime Case TUF-GAMING 426,Case,S014,387.99,2023,Low Stock,4.9,Midrange,Competitive
+P00074,ASUS ROG HDD Pro 191,Hdd,S016,135.49,2018,In Stock,4.3,Budget,Competitive
+P00027,ASUS TUF PSU B450 166,Power Supply,S002,100.05,2023,In Stock,3.7,Budget,Competitive
+P00033,ASUS TUF HDD TUF-GAMING 208,Hdd,,227.08,2018,In Stock,3.3,Midrange,Competitive
+P00117,ASUS PSU Prime Z690 758,Power Supply,S008,247.23,2020,In Stock,4.6,Midrange,Competitive
+P00063,ASUS TUF Monitor Z490 593,Monitor,S011,121.26,2022,In Stock,4.2,Budget,Competitive
+P00058,ASUS ROG RAM RTX 4080 117,Ram,S019,269.63,2022,In Stock,4.1,Midrange,Competitive
+P00118,ASUS Prime Case Z490 9,Case,S009,397.8,2021,In Stock,4.8,Midrange,Competitive
+P00018,ASUS ROG Fan TUF-GAMING 458,Fan,S008,219.96,2023,In Stock,4.6,Midrange,Competitive
+P00075,ASUS Prime HDD Pro 28,Hdd,S010,573.6,2018,In Stock,3.3,High-End,Premium
+P00087,ASUS ROG Fan RTX 4080 584,Fan,S001,84.04,2018,In Stock,3.6,Budget,Competitive
+P00009,ASUS Prime SSD Z490 446,Ssd,S016,372.6,2019,In Stock,3.5,Midrange,Competitive
+P00104,ASUS Prime RAM RTX 4080 831,Ram,S020,353.68,2021,In Stock,4.5,Midrange,Competitive
+P00101,ASUS Fan Prime Z690 913,Fan,S014,170.61,2024,In Stock,3.1,Midrange,Competitive
+P00111,ASUS Prime HDD RTX 4080 447,Hdd,S007,293.81,2024,Low Stock,4.1,Midrange,Competitive
+P00106,ASUS CPU Cooler RTX 4080 821,Cpu Cooler,S012,2.27,2019,In Stock,4.5,Budget,Competitive
+P00099,ASUS HDD RTX 4080 692,Hdd,S018,46.74,2019,In Stock,4.8,Budget,Competitive
+P00051,ASUS ROG PSU RTX 4080 994,Power Supply,S014,308.26,2019,Low Stock,3.7,Midrange,Competitive
+P00077,ASUS Prime Fan RTX 4080 447,Fan,S016,523.4,2023,In Stock,4.6,High-End,Premium
+P00053,ASUS Motherboard Z490 752,Motherboard,,31.91,2023,In Stock,3.2,Budget,Competitive
+P00081,ASUS Prime RAM Z490 349,Ram,S007,259.85,2020,In Stock,4.7,Midrange,Competitive
+P00067,ASUS ROG HDD Z490 951,Hdd,,220.48,2020,In Stock,3.3,Midrange,Competitive
+P00114,ASUS TUF Monitor Z490 906,Monitor,S011,444.39,2019,Low Stock,3.8,High-End,Premium
+P00084,ASUS Prime Graphics Card TUF-GAMING 782,Graphics Card,S016,591.29,2021,In Stock,4.6,High-End,Premium
+P00071,ASUS TUF Motherboard Z490 152,Motherboard,S013,164.37,2018,In Stock,3.3,Midrange,Competitive
+P00047,ASUS HDD X 917,Hdd,S019,204.12,2023,In Stock,3.5,Midrange,Competitive
+P00069,ASUS Monitor B450 26,Monitor,S015,116.7,2021,In Stock,4.4,Budget,Competitive
+P00089,ASUS Prime RAM Z490 220,Ram,S011,251.73,2022,In Stock,4.4,Midrange,Competitive
+P00070,ASUS ROG CPU Cooler X 86,Cpu Cooler,S003,404.11,2023,In Stock,4.3,High-End,Premium
+P00100,ASUS TUF SSD Prime Z690 292,Ssd,,125.26,2023,In Stock,4.4,Budget,Competitive
+P00059,ASUS Prime CPU Cooler B450 56,Cpu Cooler,S016,182.16,2020,Out of Stock,4.1,Midrange,Competitive
+P00034,ASUS Prime Graphics Card TUF-GAMING 195,Graphics Card,S019,264.97,2018,In Stock,3.5,Midrange,Competitive
+P00039,ASUS Prime Case B450 831,Case,S013,15.92,2018,In Stock,3.7,Budget,Competitive
+P00052,ASUS ROG SSD Pro 336,Ssd,S019,63.95,2024,In Stock,3.4,Budget,Competitive
+P00043,ASUSROGCase RTX4080709,Case,S016,,2024,In Stock,4.8,Unknown,
+P00005,ASUS Prime Graphics Card B450 507,Graphics Card,S007,328.13,2024,In Stock,4.2,Midrange,Competitive
+P00068,ASUS ROG Fan Prime Z690 579,Fan,S011,207.7,2024,In Stock,3.8,Midrange,Competitive
+P00040,ASUS ROG Motherboard B450 65,Motherboard,S014,565.62,2022,In Stock,3.9,High-End,Premium
+P00038,ASUS Prime Graphics Card RTX 4080 175,Graphics Card,S004,124.35,2022,In Stock,4.9,Budget,Competitive
+P00021,ASUS ROG Monitor Z490 700,Monitor,S005,92.7,2023,In Stock,3.3,Budget,Competitive
+P00091,ASUS TUF SSD Prime Z690 439,Ssd,S016,333.17,2019,Low Stock,4.2,Midrange,Competitive
+P00032,ASUS TUF RAM Z490 57,Ram,S003,396.06,2020,In Stock,4.0,Midrange,Competitive
+P00064,ASUS ROG CPU Cooler Prime Z690 267,Cpu Cooler,S010,219.31,2020,In Stock,4.2,Midrange,Competitive
+P00048,ASUS Prime Case Prime Z690 205,Case,S016,388.69,2024,In Stock,3.0,Midrange,Competitive
+P00086,ASUSROGCase TUF-GAMING360,Case,S009,270.43,2023,Out of Stock,4.7,Midrange,Competitive
+P00115,ASUS Prime Case Pro 148,Case,S009,93.3,2021,In Stock,4.9,Budget,Competitive
+P00096,ASUS TUF PSU Pro 311,Power Supply,S003,181.7,2019,In Stock,4.1,Midrange,Competitive
+P00050,ASUS ROG CPU Cooler X 873,Cpu Cooler,S011,101.44,2023,Out of Stock,4.4,Budget,Competitive
+P00035,ASUS Prime CPU Cooler RTX 4080 989,Cpu Cooler,S001,249.58,2019,Low Stock,4.8,Midrange,Competitive
+P00008,ASUS TUF Monitor X 882,Monitor,,139.96,2019,Low Stock,4.4,Budget,Competitive
+P00105,ASUSROGGraphics Card B450272,Graphics Card,S013,270.63,2019,In Stock,3.3,Midrange,Competitive
+P00076,ASUS Prime Power Supply TUF-GAMING 661,Power Supply,S009,222.42,2023,In Stock,4.2,Midrange,Competitive
+P00083,ASUS TUF HDD Pro 727,Hdd,S004,251.11,2024,In Stock,4.2,Midrange,Competitive
+P00044,ASUS Graphics Card RTX 4080 371,Graphics Card,S017,158.32,2020,Out of Stock,3.8,Midrange,Competitive
+P00023,ASUS Prime PSU Z490 792,Power Supply,S019,,2020,In Stock,4.5,Unknown,
+P00073,ASUS TUF Case Z490 889,Case,S019,302.48,2024,In Stock,4.9,Midrange,Competitive
+P00110,ASUS ROG CPU Cooler B450 704,Cpu Cooler,S004,72.03,2019,In Stock,4.9,Budget,Competitive
+P00016,ASUS TUF CPU Cooler X 645,Cpu Cooler,S002,431.63,2021,Low Stock,3.9,High-End,Premium
+P00041,ASUS Fan Pro 103,Fan,S013,,2018,In Stock,3.2,Unknown,

@@ -1,0 +1,297 @@
+Customer_ID,First_Name,Last_Name,Email,Phone_Number,Registration_Date,Street_Address,City,State/Province,Postal_Code,Country,Customer_Segment,Region,Age_Group,Customer_Tenure_Years,Preferred_Payment_Method
+C00074,Avery,Davis,avery.davis84@example.com,4297198792,16-08-2023,1391 Market St,Munich,CA,55015,United States,Enterprise,North America,50+,2.2,COD
+C00170,Alex,Martin,alex.martin30@example.com,2023534951,27-12-2020,9442 Pine St,London,Bavaria,38758,Canada,Retail,North America,26-35,4.8,COD
+C00229,Avery,Taylor,avery.taylor16@example.com,5249306410,10-04-2019,6742 Main St,Tokyo,CA,31134,Germany,Enterprise,Europe,26-35,6.6,Wire Transfer
+C00239,Robin,Miller,,8.67E+11,05-12-2020,4831 Oak Rd,Bengaluru,Ile-de-France,75951,China,Enterprise,Asia-Pacific,26-35,4.9,COD
+C00260,Taylor,Lee,taylor.lee57@example.com,1218057189,07-01-2022,9169 Oak Rd,Paris,ON,67344,France,Retail,Europe,26-35,3.8,COD
+C00165,Cameron,Moore,cameron.moore12@example.com,4645059412,20-07-2018,519 Pine St,Toronto,Ile-de-France,,Japan,Retail,Asia-Pacific,36-50,7.3,COD
+C00198,Drew,Thomas,drew.thomas85@example.com,4009596757,12-09-2022,4641 Main St,Bengaluru,ON,25431,United States,Enterprise,North America,50+,3.1,PayPal
+C00228,Lee,Miller,lee.miller29@example.com,9.19E+11,18-06-2023,7217 1st Ave,Tokyo,Karnataka,28214,India,Enthusiast,Asia-Pacific,18-25,2.4,Wire Transfer
+C00275,Jamie,Lee,jamie.lee2@example.com,8.65E+11,08-06-2025,322 Oak Rd,Sydney,Tokyo,,China,Enterprise,Asia-Pacific,18-25,0.4,COD
+C00059,Robin,Smith,,9.18E+11,13-03-2025,4000 1st Ave,Shenzhen,Tokyo,53713,India,Enterprise,Asia-Pacific,50+,0.6,Credit Card
+C00203,Jesse,Lee,jesse.lee94@example.com,5945992850,12-08-2022,8608 Tech Park,Shenzhen,Guangdong,11620,China,Enterprise,Asia-Pacific,18-25,3.2,Credit Card
+C00174,Lee,Garcia,lee.garcia74@example.com,4.93E+11,09-11-2024,2314 Oak Rd,Bengaluru,Tokyo,,Germany,Enterprise,Europe,50+,1,Credit Card
+C00237,Jordan,Anderson,jordan.anderson77@example.com,8.69E+11,07-03-2025,8499 Oak Rd,Tokyo,CA,,China,Retail,Asia-Pacific,18-25,0.7,Wire Transfer
+C00167,Chris,Martin,chris.martin43@example.com,9.11E+11,20-11-2019,493 Pine St,Sydney,Bavaria,75028,India,Enterprise,Asia-Pacific,26-35,6,Wire Transfer
+C00284,Cameron,Hernandez,cameron.hernandez89@example.com,5749498400,06-01-2019,2226 Pine St,Sydney,London,81618,Australia,Enthusiast,Asia-Pacific,18-25,6.8,Credit Card
+C00298,Chris,Brown,chris.brown21@example.com,1491603670,26-12-2024,5228 Oak Rd,Munich,SP,82006,Canada,Retail,North America,50+,0.8,COD
+C00121,Chris,Davis,chris.davis46@example.com,6418365941,02-10-2023,7702 Oak Rd,Tokyo,London,,Brazil,Enthusiast,South America,50+,2.1,Wire Transfer
+C00158,Jesse,Martinez,jesse.martinez99@example.com,8.67E+11,24-07-2020,211 1st Ave,San Francisco,ON,,China,Enthusiast,Asia-Pacific,50+,5.3,Credit Card
+C00231,Drew,Moore,drew.moore99@example.com,7387759369,19-12-2020,9783 Market St,Bengaluru,Tokyo,,Australia,Enthusiast,Asia-Pacific,50+,4.9,Credit Card
+C00019,Casey,Smith,casey.smith32@example.com,14628987658,17-12-2024,2910 Pine St,San Francisco,Bavaria,31299,United States,Enthusiast,North America,50+,0.9,COD
+C00250,Avery,Rodriguez,avery.rodriguez33@example.com,13152707505,26-02-2019,7762 Market St,San Francisco,CA,,United States,Retail,North America,36-50,6.7,PayPal
+C00012,Jesse,Lee,jesse.lee71@example.com,8.12E+11,02-03-2018,2734 Pine St,Toronto,ON,,Japan,Retail,Asia-Pacific,36-50,7.7,Wire Transfer
+C00166,Morgan,Johnson,morgan.johnson29@example.com,3029437563,05-03-2022,4250 Main St,San Francisco,Karnataka,86823,Germany,Enthusiast,Europe,18-25,3.7,COD
+C00218,Jordan,Brown,jordan.brown90@example.com,6.19E+11,08-04-2018,2926 Oak Rd,Paris,Karnataka,17113,Australia,Enthusiast,Asia-Pacific,50+,7.6,Credit Card
+C00223,Taylor,Garcia,taylor.garcia85@example.com,7729620601,19-07-2021,7155 Oak Rd,London,Bavaria,39035,United Kingdom,Retail,Europe,18-25,4.3,Credit Card
+C00101,Avery,Martinez,avery.martinez87@example.com,15266976040,19-09-2025,9487 Market St,Tokyo,CA,95929,Canada,Retail,North America,50+,0.1,COD
+C00090,Taylor,Smith,taylor.smith34@example.com,6.17E+11,13-10-2025,7416 1st Ave,Toronto,Karnataka,19706,Australia,Retail,Asia-Pacific,50+,0,Wire Transfer
+C00118,Riley,Taylor,,18137984768,31-07-2022,7768 1st Ave,Tokyo,SP,80507,United States,Enterprise,North America,36-50,3.3,PayPal
+C00086,Cameron,Martinez,cameron.martinez25@example.com,4353689019,09-05-2025,7214 Pine St,London,Bavaria,62431,Canada,Enterprise,North America,36-50,0.5,PayPal
+C00013,Chris,Moore,chris.moore59@example.com,8380507338,27-09-2019,1008 Tech Park,London,CA,81066,Australia,Enterprise,Asia-Pacific,26-35,6.1,Credit Card
+C00293,Chris,Miller,chris.miller83@example.com,5932598546,09-01-2024,927 Market St,Sao Paulo,Guangdong,,Canada,Enthusiast,North America,36-50,1.8,Wire Transfer
+C00028,Jordan,Lee,jordan.lee53@example.com,7625464411,31-08-2022,6391 Market St,San Francisco,Guangdong,,Germany,Enterprise,Europe,26-35,3.2,PayPal
+C00060,Jordan,Moore,jordan.moore19@example.com,8.14E+11,17-06-2019,2169 Main St,London,Tokyo,13379,Japan,Enthusiast,Asia-Pacific,26-35,6.4,Wire Transfer
+C00030,Alex,Martin,alex.martin60@example.com,1513667211,02-09-2021,4568 Pine St,Sao Paulo,Karnataka,59692,United States,Enthusiast,North America,26-35,4.2,Wire Transfer
+C00140,Lee,Smith,lee.smith69@example.com,4744334228,18-02-2023,8656 Tech Park,London,Guangdong,74157,India,Enterprise,Asia-Pacific,26-35,2.7,Credit Card
+C00108,Cameron,Martin,cameron.martin70@example.com,4.50E+11,02-04-2023,4225 Tech Park,Munich,CA,70150,United Kingdom,Enthusiast,Europe,26-35,2.6,PayPal
+C00188,Morgan,Taylor,morgan.taylor99@example.com,6.16E+11,28-09-2024,4521 Pine St,Sydney,London,50037,Australia,Enterprise,Asia-Pacific,18-25,1.1,COD
+C00128,Lee,Hernandez,lee.hernandez7@example.com,9.15E+11,27-10-2021,495 Tech Park,Sao Paulo,ON,52778,India,Enterprise,Asia-Pacific,36-50,4,Credit Card
+C00207,Pat,Martinez,pat.martinez98@example.com,1024496818,08-02-2025,760 1st Ave,Toronto,Bavaria,23935,United Kingdom,Retail,Europe,26-35,0.7,PayPal
+C00230,Casey,Anderson,casey.anderson8@example.com,3642849464,19-07-2022,4654 Main St,Tokyo,ON,96736,France,Enterprise,Europe,50+,3.3,PayPal
+C00187,Taylor,Taylor,,4.95E+11,25-11-2020,823 1st Ave,Shenzhen,Tokyo,60667,Germany,Retail,Europe,36-50,4.9,PayPal
+C00106,Morgan,Brown,Morgan.Brown53@gmail.com,8375996697,16-02-2019,2597 Pine St,Toronto,ON,,Japan,Enterprise,Asia-Pacific,36-50,6.7,PayPal
+C00209,Avery,Lee,,3.38E+11,06-10-2019,5283 Market St,Sydney,NSW,89450,France,Enterprise,Europe,26-35,6.1,PayPal
+C00091,Pat,Taylor,pat.taylor21@example.com,9124709335,07-07-2020,3888 Pine St,San Francisco,London,28202,France,Retail,Europe,18-25,5.3,Wire Transfer
+C00234,Kim,Garcia,kim.garcia1@example.com,18046299951,02-08-2022,4291 Market St,Sydney,Guangdong,43244,United States,Retail,North America,26-35,3.2,Credit Card
+C00164,Morgan,Johnson,morgan.johnson58@example.com,8.65E+11,05-01-2024,4351 Main St,Bengaluru,Bavaria,70731,China,Enterprise,Asia-Pacific,18-25,1.8,Wire Transfer
+C00103,Avery,Brown,avery.brown23@example.com,16596943949,31-07-2025,7942 1st Ave,Tokyo,SP,44650,Canada,Enthusiast,North America,50+,0.3,COD
+C00205,Drew,Moore,drew.moore36@example.com,16193287203,10-07-2022,7351 Main St,Toronto,ON,85108,Canada,Retail,North America,36-50,3.3,PayPal
+C00005,Morgan,Moore,morgan.moore92@example.com,7439149233,18-03-2025,8840 Oak Rd,Shenzhen,NSW,83579,Japan,Enthusiast,Asia-Pacific,50+,0.6,Credit Card
+C00168,Robin,Brown,Robin.Brown80@gmail.com,7624029173,15-08-2022,2258 Pine St,Tokyo,Ile-de-France,60202,Canada,Enthusiast,North America,18-25,3.2,PayPal
+C00259,Alex,Lee,Alex.Lee6@gmail.com,6.15E+11,15-10-2020,993 Main St,London,Bavaria,91937,Australia,Enthusiast,Asia-Pacific,18-25,5,Credit Card
+C00052,Morgan,Rodriguez,morgan.rodriguez37@example.com,1755526661,03-08-2024,4959 1st Ave,Sydney,ON,69878,United States,Retail,North America,50+,1.2,Wire Transfer
+C00182,Kim,Brown,kim.brown9@example.com,8.65E+11,11-03-2024,9636 Market St,Sydney,Karnataka,11620,China,Enthusiast,Asia-Pacific,18-25,1.6,Credit Card
+C00081,Sam,Davis,Sam.Davis13@gmail.com,4398953973,18-07-2019,7750 Tech Park,Munich,ON,,India,Retail,Asia-Pacific,50+,6.3,COD
+C00010,Jordan,Miller,jordan.miller30@example.com,11329806413,18-10-2018,2177 Tech Park,Shenzhen,Guangdong,80678,United States,Enthusiast,North America,36-50,7,COD
+C00245,Chris,Davis,chris.davis34@example.com,3755826621,07-02-2022,5991 Pine St,Sao Paulo,ON,58799,China,Enterprise,Asia-Pacific,50+,3.7,Credit Card
+C00017,Taylor,Martin,taylor.martin37@example.com,8344514335,16-09-2025,1522 Tech Park,Sydney,SP,16658,India,Enterprise,Asia-Pacific,36-50,0.1,Credit Card
+C00071,Pat,Lee,pat.lee32@example.com,4.46E+11,10-06-2022,1261 Market St,Bengaluru,Ile-de-France,32037,United Kingdom,Retail,Europe,50+,3.4,Credit Card
+C00001,Taylor,Smith,taylor.smith70@example.com,4.97E+11,05-03-2018,444 Market St,Tokyo,Ile-de-France,88907,Germany,Enterprise,Europe,18-25,7.7,Credit Card
+C00178,Jamie,Taylor,jamie.taylor63@example.com,1554691062,18-10-2022,9843 Pine St,Tokyo,Karnataka,,United States,Enterprise,North America,50+,3,COD
+C00160,Sam,Lee,,19985765625,26-06-2021,4787 Market St,Sao Paulo,Guangdong,36302,United States,Enthusiast,North America,18-25,4.4,PayPal
+C00112,Avery,Rodriguez,avery.rodriguez65@example.com,6866493455,05-11-2019,9564 Pine St,Bengaluru,Ile-de-France,36922,China,Retail,Asia-Pacific,50+,6,Credit Card
+C00063,Avery,Garcia,avery.garcia84@example.com,5405624743,22-08-2022,5130 Pine St,London,SP,22463,India,Enthusiast,Asia-Pacific,50+,3.2,Credit Card
+C00243,Taylor,Johnson,taylor.johnson70@example.com,19685937081,17-12-2024,9422 Oak Rd,Toronto,Bavaria,,Canada,Enthusiast,North America,26-35,0.9,COD
+C00132,Jamie,Davis,jamie.davis81@example.com,4.46E+11,09-07-2019,6234 Oak Rd,Toronto,London,91289,United Kingdom,Enthusiast,Europe,18-25,6.3,COD
+C00162,Taylor,Brown,,8283862524,29-06-2018,7521 Tech Park,Bengaluru,Guangdong,58823,Canada,Enthusiast,North America,26-35,7.3,Wire Transfer
+C00147,Lee,Rodriguez,lee.rodriguez99@example.com,6.15E+11,16-10-2025,5372 Market St,San Francisco,Karnataka,,Australia,Enthusiast,Asia-Pacific,18-25,0,Credit Card
+C00089,Casey,Johnson,casey.johnson78@example.com,7955607077,04-03-2022,6531 Oak Rd,Sao Paulo,Tokyo,58096,United Kingdom,Enthusiast,Europe,26-35,3.7,Wire Transfer
+C00173,Avery,Moore,avery.moore42@example.com,2618498157,03-03-2025,5856 1st Ave,Shenzhen,Bavaria,83659,Australia,Enthusiast,Asia-Pacific,36-50,0.7,COD
+C00126,Jordan,Davis,jordan.davis11@example.com,17606557798,06-05-2024,707 1st Ave,Tokyo,Guangdong,,United States,Retail,North America,50+,1.5,COD
+C00202,Pat,Lee,pat.lee62@example.com,12153223175,22-10-2025,1709 Pine St,Shenzhen,ON,,Canada,Enterprise,North America,18-25,0,PayPal
+C00040,Kim,Garcia,,7403165335,29-05-2025,1239 1st Ave,San Francisco,NSW,82350,India,Enthusiast,Asia-Pacific,18-25,0.4,Credit Card
+C00079,Morgan,Garcia,morgan.garcia57@example.com,8.19E+11,22-08-2023,9916 1st Ave,Sao Paulo,CA,,Japan,Enthusiast,Asia-Pacific,50+,2.2,Wire Transfer
+C00096,Sam,Lee,sam.lee92@example.com,8991977937,22-06-2022,1749 Oak Rd,Tokyo,ON,83616,Japan,Enthusiast,Asia-Pacific,18-25,3.4,COD
+C00113,Jesse,Hernandez,Jesse.Hernandez60@gmail.com,4106464319,10-06-2022,752 Pine St,London,Karnataka,19572,Australia,Enthusiast,Asia-Pacific,18-25,3.4,COD
+C00291,Drew,Hernandez,,5.52E+11,05-01-2025,6803 Pine St,San Francisco,London,90649,Brazil,Enthusiast,South America,26-35,0.8,Wire Transfer
+C00018,Sam,Smith,sam.smith91@example.com,5.52E+11,01-10-2025,9553 Market St,Munich,NSW,,Brazil,Enthusiast,South America,18-25,0.1,PayPal
+C00263,Sam,Moore,sam.moore13@example.com,16847577366,18-05-2025,6012 1st Ave,Shenzhen,Karnataka,16433,United States,Enterprise,North America,36-50,0.5,COD
+C00283,Avery,Taylor,avery.taylor6@example.com,6316507481,10-06-2018,3120 Oak Rd,Toronto,NSW,16461,France,Enterprise,Europe,36-50,7.4,Credit Card
+C00124,Chris,Martinez,chris.martinez3@example.com,8.66E+11,18-02-2018,4707 Main St,Paris,NSW,80220,China,Enthusiast,Asia-Pacific,50+,7.7,COD
+C00043,Jamie,Smith,Jamie.Smith98@gmail.com,3474961963,19-12-2019,2983 Market St,Sydney,ON,,China,Enterprise,Asia-Pacific,18-25,5.9,Credit Card
+C00094,Jordan,Garcia,jordan.garcia69@example.com,5.56E+11,21-08-2024,5541 Market St,San Francisco,CA,89316,Brazil,Retail,South America,50+,1.2,Wire Transfer
+C00264,Alex,Martin,alex.martin47@example.com,9.19E+11,01-12-2024,1286 1st Ave,Paris,Karnataka,49833,India,Enthusiast,Asia-Pacific,36-50,0.9,Credit Card
+C00176,Kim,Lee,kim.lee62@example.com,2665622207,17-05-2018,1225 Oak Rd,Munich,NSW,,Australia,Retail,Asia-Pacific,18-25,7.5,Wire Transfer
+C00006,Lee,Miller,lee.miller15@example.com,7422637916,09-08-2024,8679 Oak Rd,Paris,CA,71348,France,Retail,Europe,18-25,1.2,Credit Card
+C00254,Cameron,Anderson,cameron.andersonsr51@example.com,2678327385,30-03-2022,4464 Oak Rd,Paris,SP,77713,Japan,Enthusiast,Asia-Pacific,50+,3.6,Wire Transfer
+C00039,Jordan,Anderson,jordan.anderson11@example.com,2216717818,19-10-2024,7391 Pine St,Sao Paulo,Guangdong,59856,Germany,Enterprise,Europe,36-50,1,Credit Card
+C00111,Taylor,Taylor,taylor.taylor62@example.com,5658657121,31-08-2022,3588 1st Ave,Shenzhen,Karnataka,97044,China,Retail,Asia-Pacific,18-25,3.2,PayPal
+C00225,Lee,Hernandez,lee.hernandez70@example.com,3.35E+11,03-07-2020,2203 Pine St,Paris,Ile-de-France,,France,Enthusiast,Europe,50+,5.3,Credit Card
+C00068,Riley,Hernandez,riley.hernandez78@example.com,5.54E+11,30-09-2023,9727 Pine St,Paris,SP,47125,Brazil,Retail,South America,36-50,2.1,Credit Card
+C00151,Alex,Smith,alex.smith30@example.com,6.18E+11,27-02-2019,2350 Main St,Paris,Guangdong,27451,Australia,Retail,Asia-Pacific,50+,6.7,PayPal
+C00120,Jamie,Davis,jamie.davis93@example.com,5903136455,26-05-2021,1932 Tech Park,Toronto,Tokyo,,India,Retail,Asia-Pacific,26-35,4.4,COD
+C00035,Lee,Miller,lee.miller36@example.com,3387104291,18-10-2023,9106 1st Ave,Toronto,ON,74038,Japan,Retail,Asia-Pacific,18-25,2,COD
+C00261,Chris,Anderson,chris.anderson71@example.com,1706433539,15-01-2023,8299 Pine St,Munich,CA,10094,Canada,Enterprise,North America,26-35,2.8,Credit Card
+C00181,Drew,Anderson,drew.anderson5@example.com,2238758357,10-12-2019,2077 Main St,Sydney,Karnataka,35260,India,Retail,Asia-Pacific,36-50,5.9,PayPal
+C00193,Drew,Martin,drew.martin20@example.com,3054507704,21-05-2024,1334 Pine St,London,Bavaria,33639,Australia,Retail,Asia-Pacific,26-35,1.4,Credit Card
+C00212,Cameron,Taylor,cameron.taylor46@example.com,5.57E+11,04-04-2025,779 Pine St,Sydney,NSW,47701,Brazil,Retail,South America,26-35,0.6,Wire Transfer
+C00288,Chris,Smith,chris.smith86@example.com,1376680187,23-03-2019,9757 Market St,Paris,Bavaria,90096,United Kingdom,Enterprise,Europe,36-50,6.6,Wire Transfer
+C00271,Avery,Johnson,avery.johnson61@example.com,6.17E+11,15-12-2018,7889 Market St,Tokyo,ON,27677,Australia,Retail,Asia-Pacific,50+,6.9,Credit Card
+C00020,Pat,Hernandez,pat.hernandez14@example.com,8.20E+11,30-06-2020,3662 Main St,Tokyo,NSW,39831,Japan,Retail,Asia-Pacific,26-35,5.3,COD
+C00015,Sam,Anderson,sam.anderson27@example.com,6320115677,06-10-2022,5190 Main St,San Francisco,ON,69929,China,Enterprise,Asia-Pacific,50+,3.1,COD
+C00092,Robin,Rodriguez,robin.rodriguez51@example.com,8.69E+11,06-12-2024,1225 Pine St,Toronto,Ile-de-France,,China,Enterprise,Asia-Pacific,26-35,0.9,Credit Card
+C00215,Cameron,Rodriguez,cameron.rodriguez29@example.com,6331699276,15-10-2019,3505 Tech Park,London,London,38992,India,Enterprise,Asia-Pacific,50+,6,Credit Card
+C00297,Sam,Rodriguez,sam.rodriguez88@example.com,9.14E+11,27-02-2019,5124 Tech Park,Tokyo,London,85701,India,Retail,Asia-Pacific,36-50,6.7,Wire Transfer
+C00045,Alex,Taylor,alex.taylor97@example.com,18781865901,13-04-2020,1999 Main St,Shenzhen,Tokyo,73532,United States,Enterprise,North America,26-35,5.6,COD
+C00175,Robin,Miller,robin.miller94@example.com,2918260963,22-12-2020,30 Main St,Sydney,ON,24160,India,Enterprise,Asia-Pacific,36-50,4.9,Credit Card
+C00107,Chris,Hernandez,chris.hernandez74@example.com,6478561611,19-12-2019,605 Pine St,Toronto,Bavaria,,United States,Retail,North America,26-35,5.9,Wire Transfer
+C00155,Alex,Garcia,alex.garcia65@example.com,6.18E+11,04-12-2018,5087 Main St,Paris,Tokyo,20957,Australia,Enterprise,Asia-Pacific,36-50,6.9,COD
+C00133,Kim,Moore,kim.moore89@example.com,5904213910,20-06-2022,9445 1st Ave,London,NSW,74357,China,Retail,Asia-Pacific,36-50,3.4,PayPal
+C00109,Pat,Hernandez,pat.hernandez52@example.com,8.12E+11,07-04-2025,7832 Oak Rd,Tokyo,CA,,Japan,Enthusiast,Asia-Pacific,26-35,0.6,Wire Transfer
+C00268,Chris,Moore,chris.moore74@example.com,1961388542,27-12-2021,4103 1st Ave,Sao Paulo,SP,,Brazil,Enterprise,South America,26-35,3.8,COD
+C00042,Casey,Johnson,casey.johnson37@example.com,8.66E+11,07-07-2022,9808 Main St,Sydney,London,20543,China,Enthusiast,Asia-Pacific,26-35,3.3,COD
+C00080,Drew,Moore,drew.moore98@example.com,3795609410,27-08-2019,7401 Oak Rd,San Francisco,NSW,,France,Retail,Europe,18-25,6.2,Wire Transfer
+C00292,Robin,Martinez,robin.martinez9@example.com,7657171838,26-01-2018,9331 Market St,San Francisco,Bavaria,61910,Japan,Enterprise,Asia-Pacific,50+,7.8,PayPal
+C00148,Jesse,Taylor,jesse.taylor55@example.com,6063746289,07-03-2021,5641 Tech Park,San Francisco,CA,73614,India,Retail,Asia-Pacific,18-25,4.7,Wire Transfer
+C00169,Morgan,Taylor,,8651205525,10-11-2021,437 Oak Rd,Shenzhen,Tokyo,33568,United States,Enthusiast,North America,18-25,4,COD
+C00123,Jesse,Lee,jesse.lee70@example.com,4.96E+11,30-06-2025,3801 Main St,Munich,CA,28021,Germany,Retail,Europe,36-50,0.3,Credit Card
+C00100,Avery,Davis,avery.davis67@example.com,4.97E+11,27-07-2019,4912 Market St,London,Ile-de-France,90805,Germany,Enterprise,Europe,26-35,6.3,Credit Card
+C00270,Taylor,Moore,,8.64E+11,18-06-2018,2519 Main St,Sydney,ON,38940,China,Enterprise,Asia-Pacific,50+,7.4,Wire Transfer
+C00009,Casey,Lee,casey.lee55@example.com,6528734295,30-06-2021,7407 Main St,Tokyo,Tokyo,77839,Germany,Enthusiast,Europe,36-50,4.3,COD
+C00246,Riley,Anderson,riley.anderson31@example.com,8.13E+11,05-09-2019,8480 Market St,London,ON,27625,Japan,Retail,Asia-Pacific,18-25,6.2,Credit Card
+C00195,Chris,Thomas,chris.thomassr81@example.com,3318106641,07-02-2021,5025 1st Ave,Bengaluru,CA,87158,France,Enterprise,Europe,26-35,4.7,COD
+C00029,Lee,Rodriguez,lee.rodriguez78@example.com,5993245471,21-11-2022,2714 Pine St,Munich,Guangdong,62994,Australia,Enthusiast,Asia-Pacific,36-50,2.9,Wire Transfer
+C00032,Jamie,Hernandez,jamie.hernandez40@example.com,9.17E+11,16-06-2024,1255 Market St,Tokyo,Karnataka,35995,India,Enterprise,Asia-Pacific,26-35,1.4,Credit Card
+C00185,Taylor,Moore,taylor.moore94@example.com,12928410774,15-05-2020,6136 Main St,Paris,Bavaria,77698,Canada,Enterprise,North America,36-50,5.5,COD
+C00056,Robin,Johnson,robin.johnson34@example.com,12104922880,16-04-2023,9208 Oak Rd,Shenzhen,Tokyo,,Canada,Retail,North America,26-35,2.5,Credit Card
+C00295,Taylor,Moore,taylor.moore12@example.com,4.45E+11,24-05-2021,3321 Main St,Toronto,Ile-de-France,14901,United Kingdom,Enterprise,Europe,18-25,4.4,Wire Transfer
+C00180,Jamie,Rodriguez,jamie.rodriguez90@example.com,5.52E+11,27-01-2024,6352 Market St,Sydney,Ile-de-France,17993,Brazil,Retail,South America,50+,1.8,COD
+C00049,Sam,Lee,sam.lee68@example.com,9.18E+11,07-08-2022,5556 Market St,Sydney,Karnataka,44737,India,Enterprise,Asia-Pacific,18-25,3.2,Credit Card
+C00258,Lee,Taylor,Lee.Taylor71@gmail.com,4.94E+11,24-03-2020,3876 Tech Park,Sydney,London,24801,Germany,Enthusiast,Europe,50+,5.6,Wire Transfer
+C00189,Jesse,Garcia,jesse.garcia14@example.com,3.36E+11,18-04-2024,7902 Main St,London,SP,24169,France,Enterprise,Europe,26-35,1.5,Credit Card
+C00034,Casey,Davis,casey.davis62@example.com,5.59E+11,13-08-2021,4005 Pine St,Shenzhen,Guangdong,69087,Brazil,Retail,South America,36-50,4.2,Credit Card
+C00036,Jesse,Hernandez,jesse.hernandez61@example.com,6715705115,02-02-2023,5179 Main St,Paris,Bavaria,35242,Japan,Retail,Asia-Pacific,18-25,2.7,PayPal
+C00219,Morgan,Martin,Morgan.Martin87@gmail.com,6.16E+11,26-07-2024,5870 Market St,Bengaluru,SP,,Australia,Enthusiast,Asia-Pacific,50+,1.3,PayPal
+C00064,Robin,Lee,robin.lee13@example.com,4486522557,28-03-2024,9212 Oak Rd,Bengaluru,NSW,,India,Enterprise,Asia-Pacific,18-25,1.6,Wire Transfer
+C00233,Kim,Miller,kim.miller99@example.com,6.17E+11,10-09-2022,1383 Oak Rd,Shenzhen,Ile-de-France,40475,Australia,Enterprise,Asia-Pacific,50+,3.1,PayPal
+C00289,Jesse,Thomas,jesse.thomas49@example.com,9.19E+11,14-04-2021,5403 Market St,Sydney,Ile-de-France,,India,Enthusiast,Asia-Pacific,18-25,4.6,Wire Transfer
+C00067,Lee,Johnson,lee.johnson49@example.com,14493640889,24-02-2022,9778 Main St,San Francisco,Bavaria,,United States,Enterprise,North America,50+,3.7,PayPal
+C00159,Robin,Davis,robin.davis95@example.com,14295165165,01-09-2022,9374 Oak Rd,Bengaluru,Ile-de-France,,United States,Enterprise,North America,50+,3.2,Credit Card
+C00249,Casey,Moore,casey.moore52@example.com,4.42E+11,23-07-2020,6489 Oak Rd,Toronto,London,89349,United Kingdom,Retail,Europe,26-35,5.3,Wire Transfer
+C00211,Pat,Thomas,pat.thomas91@example.com,19988086467,22-02-2018,937 1st Ave,Sao Paulo,Bavaria,97851,Canada,Enterprise,North America,50+,7.7,Wire Transfer
+C00048,Drew,Miller,drew.miller25@example.com,6854924826,08-10-2022,6335 Tech Park,Munich,ON,59968,Australia,Enterprise,Asia-Pacific,26-35,3.1,Credit Card
+C00221,Robin,Smith,robin.smith51@example.com,9.14E+11,17-05-2020,3024 1st Ave,Shenzhen,SP,31096,India,Enthusiast,Asia-Pacific,50+,5.5,Wire Transfer
+C00041,Jesse,Thomas,jesse.thomas59@example.com,8.18E+11,04-01-2025,8932 1st Ave,Munich,SP,25043,Japan,Enthusiast,Asia-Pacific,36-50,0.8,Wire Transfer
+C00022,Robin,Thomas,robin.thomas25@example.com,9780573290,22-11-2022,8831 Tech Park,Tokyo,London,,France,Retail,Europe,36-50,2.9,PayPal
+C00102,Drew,Lee,drew.lee5@example.com,6.13E+11,08-07-2021,7736 Tech Park,San Francisco,Bavaria,75774,Australia,Enterprise,Asia-Pacific,36-50,4.3,Wire Transfer
+C00070,Morgan,Martinez,morgan.martinez6@example.com,4.46E+11,06-07-2021,4753 Main St,Sydney,CA,64747,United Kingdom,Enterprise,Europe,50+,4.3,COD
+C00054,Morgan,Anderson,morgan.anderson93@example.com,7431991645,19-06-2021,1486 Oak Rd,London,NSW,27224,Japan,Enterprise,Asia-Pacific,26-35,4.4,Credit Card
+C00138,Jesse,Hernandez,jesse.hernandez58@example.com,5583478908,03-07-2018,1801 Tech Park,Munich,Tokyo,,Canada,Retail,North America,26-35,7.3,PayPal
+C00025,Pat,Johnson,pat.johnson4@example.com,5.54E+11,09-02-2023,8109 Pine St,Tokyo,Bavaria,60328,Brazil,Retail,South America,50+,2.7,PayPal
+C00251,Lee,Martinez,lee.martinez50@example.com,1985076350,09-03-2021,478 Main St,London,London,32361,Brazil,Enthusiast,South America,36-50,4.6,COD
+C00135,Jamie,Taylor,jamie.taylor62@example.com,6.17E+11,12-01-2022,1801 1st Ave,London,Bavaria,21138,Australia,Retail,Asia-Pacific,36-50,3.8,Credit Card
+C00117,Jesse,Brown,jesse.brown30@example.com,8809893329,28-08-2020,6785 Oak Rd,Sao Paulo,CA,38972,United States,Enterprise,North America,26-35,5.2,Credit Card
+C00172,Drew,Smith,drew.smith43@example.com,9252336582,28-12-2019,2430 Market St,Munich,Karnataka,12872,Japan,Enterprise,Asia-Pacific,36-50,5.8,PayPal
+C00143,Casey,Brown,casey.brown63@example.com,3.36E+11,05-12-2018,4513 1st Ave,Paris,SP,14285,France,Retail,Europe,18-25,6.9,Wire Transfer
+C00248,Taylor,Miller,taylor.miller69@example.com,8993916818,24-08-2021,6253 Market St,Sao Paulo,ON,20277,Japan,Enterprise,Asia-Pacific,26-35,4.2,PayPal
+C00257,Lee,Johnson,lee.johnson16@example.com,4948898257,09-10-2020,8548 Tech Park,Tokyo,ON,22315,Brazil,Enterprise,South America,36-50,5.1,Credit Card
+C00224,Pat,Martin,pat.martin83@example.com,5.60E+11,16-01-2024,315 Market St,San Francisco,Guangdong,19882,Brazil,Retail,South America,26-35,1.8,COD
+C00057,Jordan,Taylor,jordan.taylor6@example.com,5.54E+11,03-02-2019,8860 Pine St,Shenzhen,Bavaria,58629,Brazil,Retail,South America,18-25,6.7,PayPal
+C00062,Sam,Rodriguez,sam.rodriguez10@example.com,9.14E+11,27-09-2018,8994 Tech Park,London,NSW,86724,India,Enterprise,Asia-Pacific,26-35,7.1,Credit Card
+C00299,Morgan,Lee,Morgan.Lee4@gmail.com,4.42E+11,08-09-2018,9721 Tech Park,Toronto,Guangdong,88134,United Kingdom,Enterprise,Europe,26-35,7.2,PayPal
+C00186,Jordan,Garcia,Jordan.Garcia25@gmail.com,9571595087,16-05-2018,6045 Pine St,Paris,NSW,45910,France,Enterprise,Europe,26-35,7.5,Wire Transfer
+C00085,Sam,Miller,sam.miller90@example.com,4.99E+11,16-09-2018,727 1st Ave,San Francisco,London,36422,Germany,Enthusiast,Europe,26-35,7.1,PayPal
+C00190,Pat,Moore,pat.moore31@example.com,5.59E+11,29-05-2025,4853 Oak Rd,Sydney,NSW,75191,Brazil,Enthusiast,South America,18-25,0.4,PayPal
+C00115,Casey,Taylor,casey.taylor29@example.com,3.39E+11,12-03-2023,4065 Pine St,London,Bavaria,40102,France,Enthusiast,Europe,50+,2.6,Credit Card
+C00280,Pat,Martin,pat.martin82@example.com,1807168703,23-06-2019,9932 Market St,Shenzhen,Tokyo,44978,Brazil,Retail,South America,26-35,6.4,Credit Card
+C00262,Robin,Hernandez,robin.hernandez50@example.com,6367999151,08-03-2024,1819 Main St,Paris,Karnataka,52208,India,Enthusiast,Asia-Pacific,26-35,1.6,Credit Card
+C00119,Casey,Hernandez,,4973485177,12-04-2020,1524 Market St,Tokyo,CA,58637,Australia,Retail,Asia-Pacific,36-50,5.6,PayPal
+C00290,Chris,Thomas,chris.thomas12@example.com,8.65E+11,29-11-2020,9228 Pine St,Paris,ON,27001,China,Retail,Asia-Pacific,26-35,4.9,Wire Transfer
+C00171,Riley,Brown,Riley.Brown90@gmail.com,3420671425,25-04-2024,8074 Market St,Sao Paulo,Bavaria,,United Kingdom,Enthusiast,Europe,36-50,1.5,COD
+C00146,Jamie,Anderson,jamie.anderson66@example.com,5.52E+11,31-08-2018,4100 1st Ave,London,Tokyo,27392,Brazil,Enthusiast,South America,50+,7.2,COD
+C00201,Riley,Moore,riley.moore98@example.com,4.41E+11,10-06-2025,4405 Tech Park,Bengaluru,London,,United Kingdom,Enthusiast,Europe,18-25,0.4,Credit Card
+C00269,Jordan,Anderson,jordan.anderson23@example.com,9.17E+11,03-06-2018,5488 Oak Rd,Sydney,NSW,17329,India,Enterprise,Asia-Pacific,18-25,7.4,Credit Card
+C00055,Riley,Brown,riley.brown22@example.com,9350223102,23-04-2021,2316 1st Ave,Sydney,Ile-de-France,19869,United Kingdom,Enthusiast,Europe,50+,4.5,PayPal
+C00177,Riley,Thomas,riley.thomas62@example.com,9.15E+11,23-10-2024,3122 Pine St,Paris,Ile-de-France,36941,India,Enterprise,Asia-Pacific,18-25,1,COD
+C00276,Lee,Martinez,lee.martinez12@example.com,3036128503,15-04-2024,5005 Oak Rd,Toronto,NSW,79391,United Kingdom,Retail,Europe,50+,1.5,Credit Card
+C00192,Riley,Taylor,riley.taylor40@example.com,8.15E+11,26-07-2024,9571 Market St,Shenzhen,Karnataka,93151,Japan,Enterprise,Asia-Pacific,50+,1.3,Wire Transfer
+C00208,Kim,Johnson,,9.16E+11,16-10-2021,9657 Main St,Toronto,ON,93000,India,Enthusiast,Asia-Pacific,50+,4,Wire Transfer
+C00183,Kim,Lee,,9.19E+11,09-11-2021,9987 Pine St,San Francisco,Bavaria,84976,India,Retail,Asia-Pacific,18-25,4,Credit Card
+C00232,Lee,Davis,lee.davisesq79@example.com,5.00E+11,24-08-2023,8845 Main St,Sydney,Ile-de-France,89098,Germany,Retail,Europe,36-50,2.2,Credit Card
+C00099,Robin,Smith,robin.smith50@example.com,8.19E+11,12-06-2019,9149 Oak Rd,Munich,Tokyo,54444,Japan,Retail,Asia-Pacific,50+,6.4,COD
+C00213,Pat,Martinez,pat.martinez57@example.com,7488217025,07-08-2024,4829 Pine St,Munich,Karnataka,35362,Japan,Enterprise,Asia-Pacific,26-35,1.2,COD
+C00131,Pat,Moore,pat.moore72@example.com,6856333778,08-09-2025,2400 Main St,Munich,NSW,74634,Australia,Enthusiast,Asia-Pacific,18-25,0.1,PayPal
+C00098,Cameron,Rodriguez,cameron.rodriguez7@example.com,7316122432,01-08-2024,4343 Tech Park,London,NSW,27555,Japan,Retail,Asia-Pacific,50+,1.2,COD
+C00279,Chris,Moore,chris.moore99@example.com,7716783589,24-07-2021,3026 Oak Rd,Munich,CA,25517,France,Retail,Europe,50+,4.3,Wire Transfer
+C00083,Alex,Taylor,Alex.Taylor46@gmail.com,6845264068,14-06-2025,8924 Market St,Paris,Ile-de-France,78951,Germany,Retail,Europe,26-35,0.4,Wire Transfer
+C00247,Cameron,Garcia,cameron.garcia28@example.com,3705237613,17-01-2023,4232 Oak Rd,San Francisco,NSW,83071,Australia,Enterprise,Asia-Pacific,36-50,2.8,Credit Card
+C00061,Pat,Smith,pat.smith61@example.com,6.16E+11,26-01-2023,8553 Oak Rd,Toronto,CA,96363,Australia,Enterprise,Asia-Pacific,36-50,2.8,COD
+C00095,Jordan,Smith,jordan.smith54@example.com,5.56E+11,01-04-2021,6663 Oak Rd,Toronto,Karnataka,99783,Brazil,Enthusiast,South America,36-50,4.6,PayPal
+C00194,Pat,Taylor,pat.taylor98@example.com,6019042442,15-06-2019,6290 Main St,San Francisco,Ile-de-France,72573,Japan,Enterprise,Asia-Pacific,50+,6.4,Wire Transfer
+C00141,Lee,Anderson,lee.anderson87@example.com,3534753843,15-07-2025,1926 1st Ave,London,Bavaria,50026,United Kingdom,Retail,Europe,50+,0.3,Wire Transfer
+C00241,Lee,Taylor,lee.taylor46@example.com,8.18E+11,13-10-2020,1255 Market St,Munich,ON,54825,Japan,Enthusiast,Asia-Pacific,50+,5.1,PayPal
+C00153,Jordan,Brown,jordan.brown4@example.com,6977525103,31-03-2025,3931 Pine St,Sydney,Karnataka,,China,Retail,Asia-Pacific,18-25,0.6,PayPal
+C00278,Casey,Miller,casey.miller87@example.com,5273463502,13-10-2022,2168 1st Ave,Munich,Guangdong,81071,India,Retail,Asia-Pacific,26-35,3.1,Wire Transfer
+C00136,Sam,Anderson,,2848792488,13-02-2018,9152 Market St,Shenzhen,Tokyo,77999,Australia,Enterprise,Asia-Pacific,50+,7.7,Wire Transfer
+C00082,Jesse,Anderson,jesse.anderson68@example.com,4.99E+11,31-08-2020,7499 Main St,Bengaluru,ON,91633,Germany,Enthusiast,Europe,26-35,5.2,PayPal
+C00125,Riley,Johnson,riley.johnson46@example.com,8709192840,20-11-2018,4924 Tech Park,Bengaluru,CA,39603,Japan,Enterprise,Asia-Pacific,26-35,7,Wire Transfer
+C00252,Drew,Rodriguez,drew.rodriguez90@example.com,7057118480,28-01-2025,8755 Oak Rd,London,ON,93858,Brazil,Enterprise,South America,36-50,0.8,Credit Card
+C00294,Pat,Martinez,pat.martinez46@example.com,4.43E+11,21-10-2021,9364 Market St,Sydney,Bavaria,,United Kingdom,Enthusiast,Europe,18-25,4,Credit Card
+C00014,Sam,Anderson,sam.anderson11@example.com,1707092113,28-07-2025,9343 1st Ave,Shenzhen,Guangdong,,France,Retail,Europe,50+,0.3,PayPal
+C00097,Taylor,Garcia,taylor.garcia79@example.com,19863679315,03-09-2021,8173 Market St,Toronto,ON,30885,United States,Retail,North America,36-50,4.2,COD
+C00058,Kim,Taylor,,9730449971,26-02-2022,1637 Tech Park,London,Ile-de-France,57537,Australia,Enthusiast,Asia-Pacific,36-50,3.7,PayPal
+C00267,Lee,Hernandez,,4.41E+11,11-03-2021,4955 Main St,Sao Paulo,Tokyo,,United Kingdom,Retail,Europe,50+,4.6,PayPal
+C00046,Riley,Garcia,riley.garcia15@example.com,9.18E+11,04-08-2023,7915 Pine St,Tokyo,ON,64459,India,Enthusiast,Asia-Pacific,26-35,2.2,COD
+C00222,Chris,Johnson,chris.johnson71@example.com,13972130159,23-10-2020,5430 Oak Rd,Munich,Tokyo,73857,United States,Enthusiast,North America,36-50,5,COD
+C00104,Cameron,Brown,cameron.brown63@example.com,7355707297,14-04-2024,9405 Tech Park,Paris,NSW,25974,Brazil,Enterprise,South America,26-35,1.5,COD
+C00037,Chris,Brown,,5211261115,06-03-2020,2083 Oak Rd,San Francisco,CA,80010,China,Enthusiast,Asia-Pacific,18-25,5.7,Credit Card
+C00296,Alex,Hernandez,alex.hernandez68@example.com,8625857078,10-08-2019,8466 Tech Park,Munich,Tokyo,,Japan,Enterprise,Asia-Pacific,26-35,6.2,Wire Transfer
+C00021,Pat,Garcia,pat.garcia87@example.com,5033992825,18-04-2019,636 Main St,Shenzhen,NSW,44795,Brazil,Retail,South America,18-25,6.5,Credit Card
+C00273,Riley,Miller,riley.miller30@example.com,8014823555,18-12-2018,2429 Oak Rd,San Francisco,London,91396,Canada,Retail,North America,26-35,6.9,Wire Transfer
+C00226,Jordan,Davis,jordan.davisjr18@example.com,8.63E+11,04-06-2023,1039 Oak Rd,London,Tokyo,40375,China,Retail,Asia-Pacific,36-50,2.4,Credit Card
+C00076,Cameron,Garcia,cameron.garcia75@example.com,4584177421,13-06-2019,5391 1st Ave,Paris,Karnataka,59372,China,Retail,Asia-Pacific,36-50,6.4,Wire Transfer
+C00235,Robin,Anderson,robin.anderson62@example.com,4796728925,05-11-2020,2272 Tech Park,Bengaluru,Tokyo,62183,Japan,Enterprise,Asia-Pacific,18-25,5,Credit Card
+C00286,Riley,Davis,riley.davis85@example.com,2669893369,03-01-2020,4741 Tech Park,Munich,Karnataka,68491,Germany,Retail,Europe,50+,5.8,COD
+C00150,Robin,Garcia,robin.garcia93@example.com,5397712494,25-01-2019,9736 1st Ave,Paris,ON,27393,Germany,Enthusiast,Europe,18-25,6.8,PayPal
+C00220,Cameron,Anderson,cameron.anderson4@example.com,16464688734,13-07-2019,4842 Tech Park,Munich,SP,,Canada,Enthusiast,North America,18-25,6.3,Credit Card
+C00272,Lee,Taylor,lee.taylor56@example.com,3473979489,06-04-2019,5654 Market St,San Francisco,SP,52039,France,Enthusiast,Europe,26-35,6.6,Wire Transfer
+C00003,Sam,Thomas,sam.thomas81@example.com,3479708607,10-12-2018,1317 1st Ave,Bengaluru,NSW,47930,Australia,Enterprise,Asia-Pacific,26-35,6.9,COD
+C00199,Chris,Anderson,,8316205130,24-04-2021,7885 Oak Rd,Tokyo,CA,,France,Retail,Europe,18-25,4.5,Credit Card
+C00214,Riley,Lee,riley.lee17@example.com,6989665178,24-01-2018,5295 Market St,San Francisco,Guangdong,30146,United States,Retail,North America,36-50,7.8,Credit Card
+C00007,Taylor,Taylor,taylor.taylor59@example.com,4.48E+11,13-08-2023,4899 Tech Park,Paris,Guangdong,91959,United Kingdom,Retail,Europe,26-35,2.2,COD
+C00206,Pat,Johnson,pat.johnson72@example.com,19451935990,14-09-2023,5963 Main St,Tokyo,ON,54676,United States,Enterprise,North America,50+,2.1,Credit Card
+C00129,Drew,Brown,drew.brown49@example.com,6.19E+11,06-10-2020,2537 Tech Park,Sydney,London,93086,Australia,Enthusiast,Asia-Pacific,26-35,5.1,PayPal
+C00274,Taylor,Garcia,taylor.garciajr97@example.com,7652045572,26-12-2024,6180 Market St,Paris,CA,12410,France,Enthusiast,Europe,26-35,0.8,Credit Card
+C00078,Pat,Martin,pat.martin89@example.com,8385481715,10-08-2022,4678 Tech Park,Toronto,Tokyo,,Australia,Retail,Asia-Pacific,50+,3.2,PayPal
+C00114,Sam,Martin,sam.martin99@example.com,8847567887,14-03-2022,6194 Pine St,Bengaluru,Ile-de-France,,Canada,Enthusiast,North America,18-25,3.6,PayPal
+C00066,Jamie,Anderson,,3.37E+11,29-04-2018,5761 Main St,Munich,Bavaria,54541,France,Enthusiast,Europe,50+,7.5,COD
+C00184,Jamie,Davis,jamie.davis43@example.com,1508638785,05-01-2021,4975 Oak Rd,Sao Paulo,ON,,Australia,Enterprise,Asia-Pacific,18-25,4.8,Credit Card
+C00152,Alex,Anderson,alex.anderson53@example.com,8.12E+11,28-07-2019,5162 1st Ave,Tokyo,SP,66280,Japan,Enterprise,Asia-Pacific,18-25,6.3,COD
+C00281,Morgan,Brown,morgan.brown61@example.com,6959096557,25-04-2023,6704 Main St,Sao Paulo,NSW,14224,Canada,Enterprise,North America,18-25,2.5,Credit Card
+C00161,Morgan,Rodriguez,morgan.rodriguez32@example.com,1065191391,12-08-2020,5498 Main St,Sydney,SP,11257,Japan,Enterprise,Asia-Pacific,50+,5.2,Credit Card
+C00047,Casey,Davis,casey.davis54@example.com,7475684019,11-01-2018,8032 1st Ave,Toronto,Ile-de-France,96499,Germany,Retail,Europe,18-25,7.8,Wire Transfer
+C00191,Lee,Thomas,lee.thomas88@example.com,8.16E+11,28-11-2019,7723 1st Ave,Sao Paulo,Ile-de-France,22793,Japan,Enterprise,Asia-Pacific,36-50,5.9,Credit Card
+C00075,Morgan,Thomas,morgan.thomas37@example.com,3.39E+11,12-08-2025,5411 Main St,Paris,NSW,18639,France,Enthusiast,Europe,50+,0.2,COD
+C00093,Robin,Lee,robin.lee56@example.com,8.70E+11,19-09-2019,3704 Oak Rd,Paris,SP,,China,Retail,Asia-Pacific,36-50,6.1,PayPal
+C00244,Avery,Garcia,avery.garcia62@example.com,4.96E+11,12-09-2025,7547 Oak Rd,San Francisco,CA,77922,Germany,Enthusiast,Europe,18-25,0.1,Credit Card
+C00200,Alex,Taylor,alex.taylor12@example.com,8.68E+11,14-11-2020,4337 Pine St,San Francisco,Karnataka,,China,Enthusiast,Asia-Pacific,26-35,5,Wire Transfer
+C00266,Lee,Martinez,lee.martinez41@example.com,8923587668,16-08-2022,3953 Market St,Paris,Tokyo,89745,China,Enthusiast,Asia-Pacific,18-25,3.2,COD
+C00088,Riley,Thomas,riley.thomas82@example.com,4.42E+11,28-01-2022,2349 Market St,Toronto,CA,14081,United Kingdom,Enterprise,Europe,36-50,3.8,Credit Card
+C00240,Jamie,Martin,jamie.martin73@example.com,5.59E+11,23-02-2023,7906 Main St,Sao Paulo,Karnataka,,Brazil,Enterprise,South America,36-50,2.7,COD
+C00144,Riley,Hernandez,riley.hernandez15@example.com,8382963909,16-02-2024,4065 Oak Rd,San Francisco,ON,95678,Canada,Retail,North America,50+,1.7,Wire Transfer
+C00024,Cameron,Davis,cameron.davissr84@example.com,7292076361,17-12-2022,1399 Oak Rd,Paris,Guangdong,32241,Japan,Retail,Asia-Pacific,26-35,2.9,Wire Transfer
+C00011,Drew,Brown,drew.brown46@example.com,8.16E+11,21-07-2025,1800 1st Ave,Tokyo,Tokyo,54473,Japan,Enterprise,Asia-Pacific,50+,0.3,COD
+C00163,Taylor,Martinez,taylor.martinez85@example.com,3423985276,14-07-2021,5355 Oak Rd,Toronto,SP,,India,Enthusiast,Asia-Pacific,36-50,4.3,Credit Card
+C00033,Cameron,Moore,cameron.moore55@example.com,9886101513,06-04-2025,1739 Pine St,London,ON,,China,Retail,Asia-Pacific,18-25,0.6,PayPal
+C00137,Jesse,Miller,jesse.miller4@example.com,8.64E+11,18-12-2018,2331 Oak Rd,Sao Paulo,London,,China,Enterprise,Asia-Pacific,26-35,6.9,Wire Transfer
+C00084,Alex,Davis,,4209700340,02-01-2022,1708 Market St,London,Bavaria,92346,Australia,Enterprise,Asia-Pacific,18-25,3.8,Credit Card
+C00156,Casey,Martinez,casey.martinez31@example.com,9.14E+11,21-04-2019,2887 Main St,San Francisco,Bavaria,96252,India,Enterprise,Asia-Pacific,18-25,6.5,Credit Card
+C00127,Drew,Garcia,drew.Garcia41@gmail.com,3.33E+11,20-06-2022,6385 Tech Park,Paris,London,84277,France,Enthusiast,Europe,26-35,3.4,PayPal
+C00196,Cameron,Garcia,cameron.garcia18@example.com,7400268709,11-02-2020,323 1st Ave,Tokyo,Bavaria,,France,Enterprise,Europe,50+,5.7,Wire Transfer
+C00285,Jesse,Smith,jesse.smith42@example.com,8358503024,01-09-2019,1407 Market St,Sydney,Ile-de-France,57571,Japan,Enterprise,Asia-Pacific,18-25,6.2,Wire Transfer
+C00105,Lee,Moore,lee.moore92@example.com,4.95E+11,17-05-2023,4460 1st Ave,Bengaluru,Guangdong,83664,Germany,Enterprise,Europe,36-50,2.5,Credit Card
+C00154,Morgan,Rodriguez,,5861829469,17-05-2024,1205 Main St,Shenzhen,Karnataka,71736,United States,Enterprise,North America,18-25,1.5,Credit Card
+C00227,Sam,Taylor,sam.taylor6@example.com,4.48E+11,06-11-2023,8928 Market St,Munich,NSW,85842,United Kingdom,Retail,Europe,26-35,2,PayPal
+C00026,Alex,Martin,alex.martin90@example.com,9.17E+11,13-05-2019,9765 Oak Rd,Toronto,Guangdong,83259,India,Retail,Asia-Pacific,26-35,6.5,PayPal
+C00197,Chris,Thomas,chris.thomas99@example.com,17081492771,01-05-2025,6240 Main St,Paris,SP,68237,United States,Enterprise,North America,26-35,0.5,Wire Transfer
+C00065,Robin,Moore,,2510308881,25-06-2024,5746 Market St,London,Karnataka,24184,United States,Enthusiast,North America,50+,1.4,COD
+C00016,Taylor,Johnson,,4.94E+11,09-10-2019,8676 Main St,Paris,SP,95717,Germany,Retail,Europe,18-25,6.1,Wire Transfer
+C00110,Jamie,Davis,jamie.davis2@example.com,8102515984,08-10-2025,6652 Tech Park,Paris,SP,30934,United Kingdom,Enterprise,Europe,50+,0.1,Credit Card
+C00027,Avery,Davis,avery.davis34@example.com,9607525543,06-11-2023,3851 Oak Rd,London,London,47450,Germany,Retail,Europe,50+,2,Wire Transfer
+C00077,Kim,Martinez,,3088517710,16-07-2020,8327 Market St,Paris,CA,23256,Germany,Retail,Europe,26-35,5.3,COD
+C00044,Jordan,Rodriguez,jordan.rodriguez89@example.com,9.18E+11,03-03-2024,5306 Main St,Sydney,Ile-de-France,43082,India,Enthusiast,Asia-Pacific,26-35,1.7,PayPal
+C00050,Pat,Moore,pat.moore63@example.com,4.47E+11,29-01-2025,7120 Main St,Bengaluru,ON,21846,United Kingdom,Enterprise,Europe,50+,0.8,COD
+C00300,Robin,Garcia,robin.garcia98@example.com,3.32E+11,03-02-2019,7719 1st Ave,Tokyo,Bavaria,71000,France,Enterprise,Europe,18-25,6.7,COD
+C00031,Drew,Smith,drew.smith84@example.com,4.49E+11,27-03-2020,1884 Market St,Tokyo,ON,72070,United Kingdom,Enthusiast,Europe,36-50,5.6,COD
+C00122,Pat,Davis,pat.davis75@example.com,12564291551,13-09-2021,5540 Oak Rd,Toronto,ON,82173,United States,Enthusiast,North America,50+,4.1,PayPal
+C00116,Jamie,Brown,jamie.brown79@example.com,9.13E+11,18-02-2019,4019 Tech Park,San Francisco,NSW,16380,India,Enterprise,Asia-Pacific,18-25,6.7,COD
+C00287,Casey,Brown,CASEY.BrownEsq64@gmail.com,3227028794,02-02-2023,8977 Oak Rd,Shenzhen,Ile-de-France,42075,Canada,Enterprise,North America,26-35,2.7,COD
+C00217,Taylor,Davis,taylor.davis48@example.com,11445973336,22-04-2025,2752 Market St,Paris,CA,,United States,Enthusiast,North America,26-35,0.5,COD
+C00265,Taylor,Thomas,taylor.thomas81@example.com,6718677802,09-03-2019,7007 Main St,Munich,Bavaria,97194,Japan,Retail,Asia-Pacific,18-25,6.7,Credit Card
+C00210,Morgan,Garcia,morgan.garcia53@example.com,1933479178,08-05-2020,2183 Tech Park,Munich,Ile-de-France,98129,Brazil,Retail,South America,36-50,5.5,COD
+C00002,Kim,Brown,kim.brown55@example.com,2193448329,31-05-2020,5891 Oak Rd,Shenzhen,SP,22676,United States,Enthusiast,North America,26-35,5.4,PayPal
+C00023,Kim,Johnson,kim.johnson93@example.com,7473041886,24-06-2025,3153 Pine St,Sydney,Bavaria,26683,China,Retail,Asia-Pacific,26-35,0.4,COD
+C00008,Chris,Lee,chris.lee63@example.com,3.32E+11,09-07-2020,1300 Main St,Toronto,Karnataka,,France,Enthusiast,Europe,26-35,5.3,COD
+C00142,Avery,Davis,avery.davis69@example.com,6682709022,29-03-2021,888 Oak Rd,San Francisco,ON,69113,Australia,Retail,Asia-Pacific,18-25,4.6,PayPal
+C00087,Drew,Thomas,drew.thomas55@example.com,3.35E+11,13-02-2024,5031 Pine St,Shenzhen,NSW,48750,France,Retail,Europe,50+,1.7,COD
+C00242,Pat,Miller,,6108544271,19-08-2020,4101 Market St,London,Bavaria,36577,Germany,Enterprise,Europe,26-35,5.2,PayPal
+C00216,Robin,Garcia,robin.garcia97@example.com,3.32E+11,31-12-2022,4004 Main St,London,NSW,,France,Enterprise,Europe,50+,2.8,COD
+C00069,Sam,Brown,sam.brown99@example.com,8823615742,09-05-2021,2888 1st Ave,Sydney,Ile-de-France,66446,United States,Retail,North America,36-50,4.5,PayPal
+C00051,Riley,Thomas,riley.thomassr19@example.com,6435213950,28-11-2019,3955 Pine St,Shenzhen,Bavaria,99539,United States,Retail,North America,26-35,5.9,COD
+C00157,Alex,Lee,alex.lee22@example.com,4807122420,01-05-2018,9457 Tech Park,Bengaluru,ON,44465,France,Enterprise,Europe,26-35,7.5,COD
+C00253,Morgan,Hernandez,morgan.hernandez1@example.com,4523938687,01-01-2024,7826 Oak Rd,San Francisco,NSW,,Australia,Enterprise,Asia-Pacific,36-50,1.8,Credit Card
+C00255,Kim,Brown,kim.brown58@example.com,3113106808,08-06-2021,372 1st Ave,Bengaluru,SP,80119,Brazil,Enterprise,South America,26-35,4.4,Credit Card
+C00277,Riley,Smith,riley.smith65@example.com,4487053308,07-01-2025,492 Market St,Sao Paulo,Tokyo,,Brazil,Enthusiast,South America,50+,0.8,COD
+C00179,Alex,Brown,alex.brown51@example.com,9.18E+11,09-01-2019,6062 1st Ave,Toronto,CA,59996,India,Retail,Asia-Pacific,18-25,6.8,COD
+C00282,Morgan,Thomas,morgan.thomas57@example.com,8.20E+11,07-10-2020,5136 Pine St,Shenzhen,Guangdong,59856,Japan,Enterprise,Asia-Pacific,50+,5.1,Wire Transfer
+C00238,Avery,Martinez,avery.martinez21@example.com,13828987544,17-12-2021,1134 Main St,Paris,SP,12014,United States,Retail,North America,18-25,3.9,PayPal
+C00072,Avery,Brown,avery.brown26@example.com,7162562234,27-12-2019,9504 Pine St,Shenzhen,Guangdong,83889,Germany,Enthusiast,Europe,18-25,5.8,Wire Transfer
+C00130,Robin,Johnson,robin.johnson17@example.com,12915418353,31-03-2024,9090 Main St,Shenzhen,Guangdong,56388,Canada,Enthusiast,North America,50+,1.6,Credit Card
+C00145,Jamie,Miller,jamie.miller95@example.com,2838963536,28-11-2024,982 Market St,London,Ile-de-France,37124,India,Enterprise,Asia-Pacific,50+,0.9,Credit Card
+C00134,Jamie,Moore,jamie.moore24@example.com,8.68E+11,01-12-2022,8190 1st Ave,Sao Paulo,Tokyo,63627,China,Enthusiast,Asia-Pacific,50+,2.9,Credit Card
+C00204,Morgan,Taylor,morgan.taylor32@example.com,8.68E+11,01-09-2019,904 Main St,Munich,Ile-de-France,,China,Retail,Asia-Pacific,50+,6.2,Credit Card
+C00256,Jamie,Lee,Jamie.Lee28@gmail.com,7099897373,04-08-2023,1324 1st Ave,San Francisco,SP,53286,Japan,Enterprise,Asia-Pacific,36-50,2.2,COD
+C00073,Pat,Moore,pat.moore39@example.com,3540128512,12-12-2021,6051 Oak Rd,Bengaluru,Karnataka,17456,Canada,Retail,North America,26-35,3.9,Credit Card
+C00236,Jesse,Hernandez,jesse.hernandez71@example.com,8.13E+11,09-01-2019,1059 Oak Rd,Tokyo,London,21552,Japan,Retail,Asia-Pacific,18-25,6.8,COD
+C00038,Cameron,Thomas,Cameron.Thomas37@gmail.com,15516716097,26-01-2020,1879 Main St,Sydney,ON,,Canada,Enthusiast,North America,50+,5.8,COD
