@@ -297,5 +297,3 @@ This project is available for educational and analytical purposes.
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
-
-*Data-driven insights for ASUS tech products market analysis*
